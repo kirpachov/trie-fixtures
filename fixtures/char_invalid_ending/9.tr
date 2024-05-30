@@ -1,0 +1,9 @@
+children = {
+	a children = {
+		a children = {
+			b 3.14 children = {}
+		}
+	}
+}
+
+!
